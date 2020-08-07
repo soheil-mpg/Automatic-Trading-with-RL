@@ -1,3 +1,3 @@
 # Quantitative Trading
 
-[This Project is in Process]
+__\*IMPORTANT: This Project is in Process...__
