@@ -1,3 +1,3 @@
-# Automatic RL Trading
+# Quantitative Trading
 
 [This Project is in Process]
